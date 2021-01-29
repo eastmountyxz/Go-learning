@@ -4,6 +4,7 @@
 
 <B>原文参考：</B>
 - [[GO语言基础] 一.为什么我要学习Golang以及GO语言入门普及](https://blog.csdn.net/Eastmount/article/details/111150449)
+- [[GO语言基础] 二.编译运行、语法规范、注释转义及API标准库知识普及](https://blog.csdn.net/Eastmount/article/details/113151363)
 
 
 <B>编程题目：</B>

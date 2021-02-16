@@ -7,6 +7,7 @@
 - [[GO语言基础] 二.编译运行、语法规范、注释转义及API标准库知识普及](https://blog.csdn.net/Eastmount/article/details/113151363)
 - [[GO语言基础] 三.变量声明、数据类型、标识符及编程练习12题](https://blog.csdn.net/Eastmount/article/details/113399802)
 - [[GO语言基础] 四.算术运算、逻辑运算、赋值运算、位运算及编程练习](https://blog.csdn.net/Eastmount/article/details/113661528)
+- [[GO语言基础] 五.顺序控制语句和条件控制语句（if、else、switch）](https://blog.csdn.net/Eastmount/article/details/113804706)
 
 
 <B>编程题目：</B>
